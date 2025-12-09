@@ -21,7 +21,7 @@ converted to JSON) to show detailed info for each game and a match-style recomme
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/<your-username>/game-recommender.git
+   git clone [https://github.com/<your-username>/game-recommender.git](https://github.com/Gali1eo/game-recommender.git)
    cd game-recommender
 
 2. Install dependencies
