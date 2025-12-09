@@ -1,3 +1,6 @@
+<img width="1908" height="950" alt="image" src="https://github.com/user-attachments/assets/2649e7dd-91c1-4268-a694-6bbeb31caaf8" />
+
+
 # Multi-Gaming Recommender System 🎮
 
 A React + Vite + Tailwind CSS web app that recommends games based on user preferences:
